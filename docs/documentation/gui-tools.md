@@ -14,6 +14,7 @@ Here's a list of all the Mac Apps I found (in alphabetic order):
 - [Datazenit](https://datazenit.com/)
 - [DBeaver](http://dbeaver.jkiss.org/)
 - [DBGlass](http://dbglass.web-pal.com)
+- [DbSchema](http://dbschema.com)
 - [DbVisualizer](https://www.dbvis.com/)
 - [Froq](https://www.colourful-apps.com/products/mac/froq)
 - [Metabase](https://metabase.com/start/mac.html)
